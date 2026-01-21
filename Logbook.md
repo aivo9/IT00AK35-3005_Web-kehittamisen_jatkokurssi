@@ -1,5 +1,11 @@
 # Logbook
 
-| Date  | Used hours | Subject(s) |  Outcome(s) |
-| :---         |     :---:      |     :---:      |     :---:      |
-| 16.1.202 | 3 | Setting up necessary tools | Bought new laptop. Setting up Git, GitHub, SSH-connection & Visual Studio Code. |
+| Date      | Used hours |         Subject(s)         |                                                                                              Outcome(s)                                                                                               |
+| :-------- | :--------: | :------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 8.1.2026  |     4      |  Course Kick-off lecture   |                                                                               Watching the first lesson and planning .                                                                                |
+| 16.1.2026 |     4      | Setting up necessary tools |                                                            Bought new laptop. Setting up Git, GitHub, SSH-connection & Visual Studio Code.                                                            |
+| 17.1.2026 |     8      | Setting up necessary tools | Bought new laptop. Transforming my new laptop from a laptop to an engineering tool. Installing necessary software & libraries, creating file hierarchies and getting backups from my old laptop. Etc. |
+| 18.1.2026 |     8      |          1st task          |                                                                              Watching JavaScript videos & making notes.                                                                               |
+| 19.1.2026 |     4      |          1st task          |                                                                              Watching JavaScript videos & making notes.                                                                               |
+| 20.1.2026 |     4      |          1st task          |                                                                              Watching JavaScript videos & making notes.                                                                               |
+| 21.1.2026 |     4      |          1st task          |                                                  Watching JavaScript videos & making notes. Editing the task for returning. Commits to GitHub. Etc.                                                   |
