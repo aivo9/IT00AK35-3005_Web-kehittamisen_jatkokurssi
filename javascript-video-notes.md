@@ -2,7 +2,7 @@
 
 **This material has been translated and spelling improved using artificial intelligence. The use of AI in the task and original notes can be viewed behind this link:**
 
-[link text](https://chatgpt.com/share/69710df0-88a0-8012-870e-bce717da0d35)
+[Markdown Translation Request](https://chatgpt.com/share/69710df0-88a0-8012-870e-bce717da0d35)
 
 **Beginning the Beginner's Series [1 of 51]**
 
